@@ -1,7 +1,6 @@
 # Detection-of-XSS-SQLI-DDOS-using-DLL-and-LOG-analysis
 Common web attacks such as SQLi, XSS and DOS attacks are detected and precautionary measures taken against these attacks
 
-## This project was built as a part of the term project for the  Subject CS631.
 ## Team Memebers
 * [Kavya Umashankar](https://github.com/Kavya-umashankar)
 * Varsha Venkatesh
